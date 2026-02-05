@@ -33,6 +33,11 @@
       "lang": "it",
       "name": "Italiano",
       "path": "languages/it.json"
+    },
+    {
+      "lang": "pt-br",
+      "name": "Portguês Brasileiro",
+      "path": "languages/pt-br.json"
     }
   ],
   "packs": [],

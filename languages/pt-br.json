@@ -1,0 +1,45 @@
+{
+  "tokenActionHud": {
+    "fu": {
+      "group": "Grupo",
+      "equipped": {
+        "label": "[Equipaggiato]"
+      },
+      "check": {
+        "label": "Testes",
+        "travelcheck": "Teste de Viagem"
+      },
+      "settings": {
+        "displayUnequipped": {
+          "hint": "Escolha se deseja exibir itens não equipados no HUD",
+          "name": "Mostrar não equipados"
+        }
+      }
+    }
+  },
+  "Attribute Check": "Teste de Atributo",
+  "Open Check": "Teste Aberto",
+  "Group Check": "Teste de Grupo",
+  "Initiative Check": "Teste de Iniciativa",
+  "Guard": "Guarda",
+  "Equipment": "Equipamento",
+  "Hinder": "Impedir",
+  "Inventory": "Inventário",
+  "Objective": "Objetivo",
+  "Spell": "Feitiço",
+  "Study": "Estudo",
+  "Skill": "Poder",
+  "Rest": "Descanso",
+  "Accuracy": "Precisão",
+  "Damage": "Dano",
+  "Equipped": "Equipado",
+  "Checks": "Testes",
+  "Combat": "Combate",
+  "Items": "Itens",
+  "Downtime": "Tempo de Inatividade",
+  "Effects": "Efeitos",
+  "Actions": "Ações",
+  "Action": "Ação",
+  "Attack": "Ataque",
+  "Attacks": "Ataques"
+}
